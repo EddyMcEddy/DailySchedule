@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace DailySchedule
 {
@@ -6,7 +8,7 @@ namespace DailySchedule
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Welcome to C#");
+      Console.WriteLine("Welcome to hi");
     }
   }
 }
